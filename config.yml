@@ -7,26 +7,15 @@ users:
   #单个用户配置
   - user:
       #username 学号或者工号
-      username: '161105024'
+      username: '2003111050'
       #password 密码
-      password: '161105024'
+      password: '068037'
       #address 地址，定位信息
-      address: 中国四川省成都市金牛区一环路北1段-129号-附9号
+      address: 江苏省南京市江宁区淳化街道金陵科技学院
       #email 接受通知消息的邮箱
-      email: 461009747@qq.com
+      email: 2976410281@qq.com
       #school 学校全称
-      school: 宜宾学院
-  #多用户配置，将下面的注释去掉即可，如果有表单内容有图片，不建议使用多用户配置
-#  - user:
-#      #username 学号或者工号
-#      username: 161105024
-#      #password 密码
-#      password: 161105024
-#      #address 地址
-#      address: 中国四川省成都市金牛区一环路北1段-129号-附9号
-#      #email 接受通知消息的邮箱
-#      email: 461009747@qq.com
-#      school: 宜宾学院
+      school: 金陵科技学院
 #今日校园相关配置
 cpdaily:
   #表单组默认选项配置
